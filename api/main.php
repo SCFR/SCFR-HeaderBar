@@ -10,7 +10,11 @@ class Main {
         "Community Hub",
         "Partenaires",
         "L'Equipe",
-        "Recrutement"
+        "Recrutement",
+        "Guide des nouveaux",
+        "Guide des touches du clavier",
+        "Version",
+        "F.A.Q",
     ];
 
     protected $categoriesNeedLink = [
